@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/bin/sh
 
-echo "Pre-Build - Start"
+echo "Post-Build - Start"
 
-echo "Pre-Build - Done"
+echo "Post-Build - Done"
